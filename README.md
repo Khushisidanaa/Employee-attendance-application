@@ -32,7 +32,7 @@
 
 ## Overview
 
-<code>► A one stop application created using MERN stack with added location tracking to reduce fraudulent clock-ins</code>
+<code>► A one stop application created using MERN stack with added location tracking to reduce fraudulent clock-ins. Clock in your attendance, ask for leave, see your tasks and more ! </code>
 
 ---
 
